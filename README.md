@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <!-- markdownlint-disable-next-line MD041 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%20World!&fontSize=100&fontColor=golden)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Mohd%20Shahwaz&fontSize=100&fontColor=golden)
 
-My name is **`Mohd Shahwaz`**, I am a passionate about **Software Development**, **Machine Learning**, **Deep Learning** and **Fullstack Web Developement**.
+I am a passionate about **Software Development**, **Machine Learning**, **Deep Learning** and **Fullstack Web Developement**.
 
 - 🔭 Working on multiple **Machine Learning**, **Deep Learning**, **Frontend and Backend** project using **TensorFlow**, `Python`,`JavaScript` **ReactJs**, **NodeJs** and **MongoDB**.
 
