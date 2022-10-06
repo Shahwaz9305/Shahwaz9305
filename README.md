@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 My name is **`Mohd Shahwaz`**, I am a passionate about **Software Development**, **Machine Learning**, **Deep Learning** and **Fullstack Web Developement**.
 
-- 🔭 Working on multiple **Machine Learning**, **Deep Learning**, **Frontend and Backend** project using **TensorFlow**, `Python`,`JavaScript` **ReactJs**, **NodeJs** and **MongoDB**.
+- 🔭 Working on multiple **Machine Learning**, **Deep Learning**, **Frontend and Backend** project using **TensorFlow**, `Python`,`JavaScript` , **NodeJs** and **MongoDB**.
 
 <!-- Insert Animated line -->
 ![anime_line][line_link]
