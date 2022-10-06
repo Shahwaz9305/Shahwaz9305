@@ -29,7 +29,7 @@ My name is **`Mohd Shahwaz`**, I am a passionate about **Software Development**,
 ### **`Connect with me`**
 
 [![LinkedIn][linkedin_badge]][linkedin_link]
-[![LeetCode user Mohd_Shahwaz][leetCode_badge]][leetCode_link]
+[![LeetCode user ay2000anuragyadav][leetCode_badge]][leetCode_link]
 
 <!-- [![gmail_badge]][gmail_link]
 [gmail_link]:<ay1909069@gmail.com> -->
@@ -104,7 +104,7 @@ My name is **`Mohd Shahwaz`**, I am a passionate about **Software Development**,
 ![anime_line][line_link]
 
 <!-- Git Hub Activity Graph -->
-<p><a href="https://github.com/Shahwaz9305"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shahwaz9305&custom_title=Mohd Shahwaz's%20Contribution%20Graph&theme=react-dark" /></a></p>
+<!-- <p><a href="https://github.com/Shahwaz9305"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shahwaz9305&custom_title=Mohd Shahwaz's%20Contribution%20Graph&theme=react-dark" /></a></p> -->
 
 
 <!-- Insert Animated line -->
@@ -127,7 +127,7 @@ My name is **`Mohd Shahwaz`**, I am a passionate about **Software Development**,
 
 [linkedin_badge]: https://img.shields.io/badge/-LinkedIn-0B66C2?style=for-the-badge&logo=linkedin "LinkedIn"
 
-[leetCode_badge]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FayMohd_Shahwaz&logo=leetcode&logoColor=yellow "leetCode"
+<!-- [leetCode_badge]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FayMohd_Shahwaz&logo=leetcode&logoColor=yellow "leetCode" -->
 
 
 
@@ -196,7 +196,7 @@ My name is **`Mohd Shahwaz`**, I am a passionate about **Software Development**,
 
 <!-- Extra -->
 
-[![LeetCode user Mohd_Shahwaz](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FayMohd_Shahwaz&logo=leetcode&logoColor=yellow)](https://leetcode.com/Mohd_Shahwaz/)
+[![LeetCode user Mohd_Shahwaz](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMohd_Shahwaz&logo=leetcode&logoColor=yellow)](https://leetcode.com/Mohd_Shahwaz/)
 
 
 <!-- Card references second Method
