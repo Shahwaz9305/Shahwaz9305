@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%20World!&fontSize=100&fontColor=golden)
 
-My name is **`Anurag Yadav`**, I am a passionate about **Software Development**, **Machine Learning**, **Deep Learning** and **Fullstack Web Developement**.
+My name is **`Mohd Shahwaz`**, I am a passionate about **Software Development**, **Machine Learning**, **Deep Learning** and **Fullstack Web Developement**.
 
 - 🔭 Working on multiple **Machine Learning**, **Deep Learning**, **Frontend and Backend** project using **TensorFlow**, `Python`,`JavaScript` **ReactJs**, **NodeJs** and **MongoDB**.
 
@@ -88,7 +88,7 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <!-- trophies -->
 <p align="centre">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><br>
-<img src="https://github-profile-trophy.vercel.app/?username=anurag-ay&theme=radical&margin-h=15&margin-w=5&no-bg=false" alt="Anurag Yadav" width=1000 /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=Shahwaz9305&theme=radical&margin-h=15&margin-w=5&no-bg=false" alt="Mohd Shahwaz" width=1000 /></a>
 </p>
 
 <!-- Insert Animated line -->
@@ -97,14 +97,14 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <!-- Git Activeness -->
 ### Git Activeness</h2>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=anurag-ay&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="400" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-ay&theme=tokyonight" alt="ovi" width="400" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shahwaz9305&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="400" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahwaz9305&theme=tokyonight" alt="ovi" width="400" />
 
 <!-- Insert Animated line -->
 ![anime_line][line_link]
 
 <!-- Git Hub Activity Graph -->
-<p><a href="https://github.com/anurag-ay"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anurag-ay&custom_title=Anurag's%20Contribution%20Graph&theme=react-dark" /></a></p>
+<p><a href="https://github.com/Shahwaz9305"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shahwaz9305&custom_title=Mohd Shahwaz's%20Contribution%20Graph&theme=react-dark" /></a></p>
 
 
 <!-- Insert Animated line -->
@@ -114,8 +114,8 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <!-- ___________________________Links and References_______________________________ -->
 
 <!-- link references -->
-[linkedin_link]: https://www.linkedin.com/in/anurag-ay/ "LinkedIn"
-[leetCode_link]: https://leetcode.com/ay2000anuragyadav/ "leetCode"
+[linkedin_link]: https://www.linkedin.com/in/mohd-shahwaz-441384213/ "LinkedIn"
+[leetCode_link]: https://leetcode.com/Mohd_Shahwaz/ "leetCode"
 
 
 <!-- line reference -->
@@ -127,7 +127,7 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 
 [linkedin_badge]: https://img.shields.io/badge/-LinkedIn-0B66C2?style=for-the-badge&logo=linkedin "LinkedIn"
 
-[leetCode_badge]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fay2000anuragyadav&logo=leetcode&logoColor=yellow "leetCode"
+[leetCode_badge]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FayMohd_Shahwaz&logo=leetcode&logoColor=yellow "leetCode"
 
 
 
