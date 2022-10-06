@@ -104,7 +104,7 @@ My name is **`Mohd Shahwaz`**, I am a passionate about **Software Development**,
 ![anime_line][line_link]
 
 <!-- Git Hub Activity Graph -->
-<!-- <p><a href="https://github.com/Shahwaz9305"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shahwaz9305&custom_title=Mohd Shahwaz's%20Contribution%20Graph&theme=react-dark" /></a></p> -->
+<p><a href="https://github.com/Shahwaz9305"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shahwaz9305&custom_title=Mohd_Shahwaz's%20Contribution%20Graph&theme=react-dark" /></a></p> 
 
 
 <!-- Insert Animated line -->
