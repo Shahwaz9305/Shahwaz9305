@@ -56,7 +56,7 @@ I am a passionate about **Software Development**, **Machine Learning**, **Deep L
 
 ### Web Development
 
-![React][ReactJs_badge]
+<!-- ![React][ReactJs_badge] -->
 ![Redux][Redux_badge]
 ![NodeJS][NodeJs_badge]
 ![HTML][html_badge] 
