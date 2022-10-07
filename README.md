@@ -57,7 +57,7 @@ I am a passionate about **Software Development**, **Machine Learning**, **Deep L
 ### Web Development
 
 <!-- ![React][ReactJs_badge] -->
-![Redux][Redux_badge]
+<!-- ![Redux][Redux_badge] -->
 ![NodeJS][NodeJs_badge]
 ![HTML][html_badge] 
 ![CSS][css_img] 
@@ -157,7 +157,7 @@ I am a passionate about **Software Development**, **Machine Learning**, **Deep L
 
 <!--[ReactJs_badge]:https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB "React"-->
 
-[Redux_badge]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white "Redux"
+<!-- [Redux_badge]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white "Redux" -->
 
 [NodeJs_badge]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white "NodeJs"
 
