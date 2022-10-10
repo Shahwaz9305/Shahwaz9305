@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- markdownlint-disable-next-line MD041 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Mohd%20Shahwaz&fontSize=100&fontColor=golden)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hi 👋, I'm Mohd%20Shahwaz&fontSize=100&fontColor=golden)
 
 I am a passionate about **Software Development**, **Machine Learning**, **Deep Learning** and **Fullstack Web Developement**.
 
