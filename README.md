@@ -113,10 +113,25 @@ I am a passionate about **Software Development**, **Machine Learning**, **Deep L
 
 <!-- Insert Animated line -->
 
-![anime_line][line_link]
+<!--![anime_line][line_link] -->
 
 <!-- Git Hub Activity Graph -->
-<p><a href="https://github.com/Shahwaz9305"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shahwaz9305&custom_title=Mohd_Shahwaz's%20Contribution%20Graph&theme=react-dark" /></a></p>
+<!--
+<p><a href="https://github.com/Shahwaz9305"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shahwaz9305&custom_title=Mohd_Shahwaz's%20Contribution%20Graph&theme=react-dark" /></a></p>-->
+
+
+<!-- Insert Animated line -->
+
+![anime_line][line_link]
+
+
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahwaz9305&theme=react-dark&area=true&custom_title=Contribution%20Graph" />
+</p>
+
 
 <!-- Insert Animated line -->
 
@@ -164,6 +179,8 @@ I am a passionate about **Software Development**, **Machine Learning**, **Deep L
 [codeforces_link]: https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white "codeforces"
 [kaggle_link]: https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white "kaggle"
 [git_badge]: https://img.shields.io/badge/-git-purple?style=for-the-badge&logo=git "Git"
+
+
 
 <!-- Extra -->
 
