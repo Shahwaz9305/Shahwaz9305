@@ -19,9 +19,21 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Mohd%20Shahwaz&fontSize=100&fontColor=golden)
 
-I am a passionate about **Software Development**, **Machine Learning**, **Deep Learning** and **Fullstack Web Developement**.
+I am passionate about **Software Development**, **Machine Learning**, **Deep Learning**, and **Fullstack Web Development**.
 
-- 🔭 Working on multiple **Machine Learning**, **Deep Learning**, **Frontend and Backend** project using **TensorFlow**, `Python`,`JavaScript` **ReactJs**, **NodeJs** and **MongoDB**.
+- 🔭 **I'm currently working on:**
+    * Building a comprehensive **HRMS (Human Resource Management System) Portal** using a modern full-stack approach.
+
+- ✨ **Recent Fullstack & Web Projects:**
+    * **E-commerce Clone:** Developed a functional clone of **Amazon** showcasing complex state management, authentication, and product catalog features.
+    * **Web App Clones:** Built UI/UX focused clones of **Tesla** and developed a dynamic **Chatting Web App**.
+    * **Service Applications:** Created feature-rich applications including a **Food Ordering Web App**, a **Traveling Website**, a **To-Do List**, and a **Weather Web App**.
+
+- 🌱 **I'm currently learning:**
+    * Deep diving into **Next.js** for server-side rendering, static site generation, and building highly performant applications.
+    * Mastering **Sanity CMS** to create dynamic content backends for modern web projects.
+
+- 💬 **Ask me about:** Python, JavaScript, React.js, Node.js, MongoDB, Machine Learning (TensorFlow, Keras), and leveraging Next.js/Sanity for modern web development.
 
 <!-- Insert Animated line -->
 
